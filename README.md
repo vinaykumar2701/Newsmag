@@ -1,0 +1,2 @@
+# Newsmag
+latest news
